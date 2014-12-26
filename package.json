@@ -1,0 +1,30 @@
+{
+  "name": "vCO",
+  "version": "0.0.1",
+  "description": "A other co version based on thunk",
+  "main": "vCO.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/vCO.git"
+  },
+  "keywords": [
+    "vCO",
+    "co"
+  ],
+  "author": "Vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/vCO/issues"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.0",
+    "jshint-stylish": "^0.4.0",
+    "mocha": "^1.17.0",
+    "should": "^4.0.0"
+  },
+
+  "homepage": "https://github.com/devWayne/vCO"
+}
